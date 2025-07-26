@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionTareasTodo", "GestionTareasTodo\GestionTareasTodo.csproj", "{FC7FECC8-8074-4342-B38E-0F8964F0AAAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaOnlineGadgets", "TiendaOnlineGadgets\TiendaOnlineGadgets.csproj", "{3C394A04-8866-4A5A-A14A-5E6EA26B4A06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservasEventos", "ReservasEventos\ReservasEventos.csproj", "{03166E71-5652-4BA0-B44F-8CE34D334144}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalCursos", "PortalCursos\PortalCursos.csproj", "{0D864C10-D576-4B38-B84A-B6E845BC1710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaVirtual", "BibliotecaVirtual\BibliotecaVirtual.csproj", "{9824EFCF-50D0-4D6E-8D50-952D0EFFA947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC7FECC8-8074-4342-B38E-0F8964F0AAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7FECC8-8074-4342-B38E-0F8964F0AAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7FECC8-8074-4342-B38E-0F8964F0AAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7FECC8-8074-4342-B38E-0F8964F0AAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C394A04-8866-4A5A-A14A-5E6EA26B4A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C394A04-8866-4A5A-A14A-5E6EA26B4A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C394A04-8866-4A5A-A14A-5E6EA26B4A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C394A04-8866-4A5A-A14A-5E6EA26B4A06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03166E71-5652-4BA0-B44F-8CE34D334144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03166E71-5652-4BA0-B44F-8CE34D334144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03166E71-5652-4BA0-B44F-8CE34D334144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03166E71-5652-4BA0-B44F-8CE34D334144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D864C10-D576-4B38-B84A-B6E845BC1710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D864C10-D576-4B38-B84A-B6E845BC1710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D864C10-D576-4B38-B84A-B6E845BC1710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D864C10-D576-4B38-B84A-B6E845BC1710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9824EFCF-50D0-4D6E-8D50-952D0EFFA947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9824EFCF-50D0-4D6E-8D50-952D0EFFA947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9824EFCF-50D0-4D6E-8D50-952D0EFFA947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9824EFCF-50D0-4D6E-8D50-952D0EFFA947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

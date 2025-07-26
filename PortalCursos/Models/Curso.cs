@@ -1,0 +1,10 @@
+namespace PortalCursos.Models
+{
+    public class Curso
+    {
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public string Descripcion { get; set; }
+        public int DuracionHoras { get; set; }  // Duración en horas
+    }
+}
